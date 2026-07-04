@@ -1,0 +1,6 @@
+{
+  "name": "Natton SkillX Junior",
+  "description": "High-converting landing page for Weekend AI Classes for Kids (Age 6-17) by Natton SkillX Junior, featuring live demo bookings, interactive curriculum explorer, tools grid, and a lead capture system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
